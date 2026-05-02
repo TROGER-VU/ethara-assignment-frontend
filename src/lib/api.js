@@ -1,5 +1,5 @@
-// export const API_URL = "https://ethara-assignment-backend-production-b5c4.up.railway.app";
-export const API_URL = "http://localhost:5000";
+export const API_URL = "https://ethara-assignment-backend-production-b5c4.up.railway.app";
+// export const API_URL = "http://localhost:5000";
 
 export const getToken = () => localStorage.getItem("token");
 
